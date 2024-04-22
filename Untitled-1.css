@@ -1,0 +1,34 @@
+header{
+    background-color: bisque;
+    
+}
+header>nav>ul>li{
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 20px;
+    font-size: 40px;
+    color: brown;
+    text-align: center;
+    display: inline;
+}
+h1{
+    margin:20px;
+    font-size: 35px;
+    color: green;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2 {
+    margin: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    margin: 20px px;
+    padding: 20px px;
+    display: inline;
+    height: 300px;
+    width: 300px;
+}
